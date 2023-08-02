@@ -1,0 +1,623 @@
+D:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+D:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+D:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+D:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+D:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+D:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+D:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+E:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+E:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+E:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+E:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+E:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+E:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+E:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+E:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+G:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+G:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+G:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+G:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+G:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+G:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+G:\Курсовой\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+D:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+D:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+D:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+D:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+D:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+D:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+D:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+D:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+G:\Курсовой\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.baml
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.baml
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+C:\Users\8-bit\Desktop\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.baml
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+G:\2ое полугодие\THIS IS PM\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.baml
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+G:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.baml
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+E:\Курсовой\Для миши\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+D:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.baml
+E:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+E:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+E:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+E:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+E:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+E:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+E:\KYRSOVIK\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\App.baml
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+E:\KYRSOVIK\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+G:\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+G:\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+G:\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+G:\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+G:\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+G:\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+G:\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.baml
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+G:\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.baml
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+C:\Users\8-bit\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.baml
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+E:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.baml
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+G:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.baml
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+D:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.baml
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+C:\Users\Danila\Desktop\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.baml
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+F:\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.exe
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.deps.json
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.runtimeconfig.json
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.dll
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\MainMenu.pdb
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.dll
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\bin\Debug\net7.0-windows\LibraryForCoursework.pdb
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.AssemblyReference.cache
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.g.cs
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.g.cs
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.g.cs
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.g.cs
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.g.cs
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.g.cs
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.cache
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu_MarkupCompile.lref
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\App.baml
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayA.baml
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayB.baml
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayC.baml
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ArrayY.baml
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\GraphC.baml
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\TextResult.baml
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.g.resources
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfoInputs.cache
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.AssemblyInfo.cs
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CoreCompileInputs.cache
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.csproj.CopyComplete
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.dll
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\refint\MainMenu.dll
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.pdb
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\MainMenu.genruntimeconfig.cache
+C:\Users\8-bit\Desktop\2ое полугодие\KYRSOVIK МОЙ\MainMenu\obj\Debug\net7.0-windows\ref\MainMenu.dll

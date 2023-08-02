@@ -1,0 +1,56 @@
+﻿<Page x:Class="MainMenu.ArrayB"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MainMenu"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ArrayB">
+    
+    <Grid Background="#FF36393F">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Width="210" Height="150" Grid.Row="0" Grid.Column="0" VerticalAlignment="Bottom" Margin="-30,20,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0"  Content="Нижняя граница" VerticalAlignment="Center" FontSize="16" Foreground="White" FontFamily="Palatino Linotype"/>
+            <TextBox x:Name="lowerBound" PreviewTextInput="LowerBound_PreviewTextInput" Grid.Row="1"  Margin="0,0,0,0" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Stretch" Height="30"></TextBox>
+            <Label Grid.Row="2"  Content="Верхняя граница" FontSize="16" HorizontalAlignment="Stretch" VerticalAlignment="Center" Foreground="White" FontFamily="Palatino Linotype"/>
+            <TextBox x:Name="upperBound" PreviewTextInput="LowerBound_PreviewTextInput" Grid.Row="3"  Margin="0,0,0,0" VerticalAlignment="Center" Height="30" FontSize="16"></TextBox>
+        </Grid>
+
+        <Grid Width="210" Height="45" Grid.Row="1" Grid.Column="0"  Grid.RowSpan="2" VerticalAlignment="Top" Margin="-30,20,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button x:Name="FillArray" Click="FillArray_Click" Grid.Row="0"  Style="{StaticResource ButtonStyleB}" Margin="-30,0,0,0">Заполнить</Button>
+        </Grid>
+
+        <Grid Grid.RowSpan="2" Grid.Column="1" Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock VerticalAlignment="Center" FontFamily="Palatino Linotype" HorizontalAlignment="Center" FontSize="18" Margin="20 0 0 0" Foreground="White">Массив В</TextBlock>
+
+            <DataGrid AutoGenerateColumns="True"
+                      Background="#FF1E1F22" 
+                      RowBackground="#FF36393F"                                                 
+                      Foreground="White"
+                      AlternatingRowBackground="#FF1E1F22" 
+                      Style="{DynamicResource DataGridStyle1}"
+                      x:Name="ArrayBGrid" Margin="20,0,20,20" Grid.RowSpan="2" Grid.Column="0" Grid.Row="1"/>
+        </Grid>
+    </Grid>
+</Page>

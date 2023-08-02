@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ArrayA.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ArrayB.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ArrayC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ArrayY.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GraphC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TextResult.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ArrayA.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ArrayB.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ArrayC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ArrayY.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GraphC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TextResult.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

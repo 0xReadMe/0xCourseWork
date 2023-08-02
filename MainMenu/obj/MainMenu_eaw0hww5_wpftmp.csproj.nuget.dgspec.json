@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Курсовой\\KYRSOVIK\\MainMenu\\MainMenu.csproj": {}
+  },
+  "projects": {
+    "G:\\Курсовой\\KYRSOVIK\\LibraryForKursovik\\LibraryForKursovik.csproj": {
+      "restore": {
+        "projectUniqueName": "G:\\Курсовой\\KYRSOVIK\\LibraryForKursovik\\LibraryForKursovik.csproj",
+        "projectName": "LibraryForKursovik",
+        "projectPath": "G:\\Курсовой\\KYRSOVIK\\LibraryForKursovik\\LibraryForKursovik.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "G:\\Курсовой\\KYRSOVIK\\MainMenu\\MainMenu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Курсовой\\KYRSOVIK\\MainMenu\\MainMenu.csproj",
+        "projectName": "MainMenu",
+        "projectPath": "G:\\Курсовой\\KYRSOVIK\\MainMenu\\MainMenu.csproj",
+        "packagesPath": "C:\\Users\\Danila\\.nuget\\packages\\",
+        "outputPath": "G:\\Курсовой\\KYRSOVIK\\MainMenu\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Danila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "G:\\Курсовой\\KYRSOVIK\\LibraryForKursovik\\LibraryForKursovik.csproj": {
+                "projectPath": "G:\\Курсовой\\KYRSOVIK\\LibraryForKursovik\\LibraryForKursovik.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
